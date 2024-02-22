@@ -21,11 +21,6 @@ This Flutter demo app brings the excitement of rolling dice to your mobile devic
 2. Launch the app and click the "Roll" button to roll the dice.
 3. See the animated dice roll and the resulting number.
 
-## Screenshots
-
-![App Screenshot 1](screenshots/screenshot1.png)
-![App Screenshot 2](screenshots/screenshot2.png)
-
 ## Getting Started
 
 1. Clone the repository:
